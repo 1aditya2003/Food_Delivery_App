@@ -1,3 +1,5 @@
-# home
+# KUAO - A Food Delivery app
 
-A new Flutter project.
+KUAO which indicates our first letter of names is a food delivery app.
+We never thought the app would be this good in terms of our bond.
+Thanks guys for the co-operation.
